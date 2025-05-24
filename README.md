@@ -63,3 +63,5 @@ Click **"Odśwież dane"** to scrape latest data and update the JSON.
 ---
 ## 📞 Contact
 discord: **eskimek**
+
+## Project idea and GUI concept come from Nexenek — who did it better using an API. This whole thing started as a challenge from him. (https://github.com/Nexenek)
